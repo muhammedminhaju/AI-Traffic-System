@@ -81,8 +81,10 @@ smart-traffic-signal-ai/
 ├── models/
 │   ├── best.pt
 │   └── yolov8n.pt
-├── videos 
-│
+├── videos/
+│   ├── part2.mp4
+│   ├── part3.mp4
+│   └── part1.mp4
 ├── recordings/
 ├── requirements.txt
 ├── main.py
